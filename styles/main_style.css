@@ -1,0 +1,45 @@
+html, body {
+   margin: 0;
+   padding: 0;
+}
+   
+body {
+   background: #0d1517
+}
+
+header {
+   align-content: center;
+   background: orangered;
+   padding: 16px;
+}
+
+a {
+   list-style: none;
+   text-decoration: none;
+   justify-self: center;
+   color: white;
+   margin-left: 20px;
+   margin-right: 20px;
+
+   font-family: "Raleway";
+   margin-bottom: 2.5px;
+}
+
+ul {
+   display: inline-flex;
+   margin: 1px;
+}
+
+nav {
+   display: flexbox;
+   justify-items: center;
+   align-items: center;
+   align-content: center;
+}
+
+#logo {
+   margin-left: 22px;
+   height: 20px;
+   width: auto;
+   
+}
