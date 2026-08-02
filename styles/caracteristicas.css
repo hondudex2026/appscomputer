@@ -3,5 +3,107 @@
    font-family: "Raleway", sans-serif;
    font-weight: 700;
    font-size: 30px;
+   margin-left: 20px;
 }
 
+.subtitulo {
+   color: white;
+   font-family: "Raleway", sans-serif;
+   font-weight: 500;
+   font-size: 18px;
+   margin-left: 20px;
+}
+
+#office-start {
+   margin-left: 22px;
+   margin-right: 22px
+}
+
+.ediciones-office {
+   display: flex;
+   justify-content: center;
+   align-items: center;    
+   gap: 20px;
+}
+
+.ediciones {
+   display: flex;
+   background: #172528;
+   padding: 10px;
+   border-radius: 10px;
+
+   text-align: center;
+   flex-direction: column
+}
+
+#office1-img {
+   height: 210px;
+   width: auto;
+}
+
+#contenedor-office-1 {
+   height: 350px;
+   width: 200px;
+   align-content: center;
+   align-items: center;
+   margin-top: 30px;
+   padding-top: 40px;
+}
+
+.botones-office {
+   height: 40px;
+   width: 170px;
+   border-radius: 20px;
+   background: transparent;
+   border-width: 2px;
+   border-color: white;
+
+   font-family: "Raleway", sans-serif;
+   font-weight: 700;
+   font-size: 18px;
+   color: white;
+
+   margin-top: 16px;
+}
+
+#office2-img {
+   height: 210px;
+   width: auto;
+}
+
+#contenedor-office-2 {
+   height: 350px;
+   width: 200px;
+   align-content: center;
+   align-items: center;
+   margin-top: 30px;
+   padding-top: 40px;
+}
+
+#office3-img {
+   height: 210px;
+   width: auto;
+}
+
+#contenedor-office-3 {
+   height: 350px;
+   width: 200px;
+   align-content: center;
+   align-items: center;
+   margin-top: 30px;
+   padding-top: 40px;
+}
+
+#office4-img {
+   height: 210px;
+   width: auto;
+}
+
+#contenedor-office-4 {
+   height: 350px;
+   width: 200px;
+   align-content: center;
+   align-items: center;
+   margin-top: 30px;
+   padding-top: 40px;
+}

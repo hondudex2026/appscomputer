@@ -43,3 +43,24 @@ nav {
    width: auto;
    
 }
+
+.titulos {
+   color: white;
+   font-family: "Raleway", sans-serif;
+   font-weight: 700;
+   font-size: 22px;
+}
+
+.subtitulo {
+   color: white;
+   font-family: "Raleway", sans-serif;
+   font-weight: 500;
+   font-size: 18px;
+}
+
+.etiquetas {
+   font-family: "Oswald", sans-serif;
+   color: white;
+   font-size: 15px;
+}
+
